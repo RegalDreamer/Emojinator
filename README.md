@@ -1,4 +1,4 @@
-# janky-emojification
+# EMOJINATOR
 A python script to turn any image into a series of emoji hex color codes for slack. 
 
 ## Pre-Requisites
