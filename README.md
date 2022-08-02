@@ -3,8 +3,8 @@ A python script to turn any image into a series of emoji hex color codes for sla
 
 ## Pre-Requisites
 
-Python 3 
-Pillow package installed - `pip3 install pillow`
+- Python 3  
+- Pillow package installed - `pip3 install pillow`
 
 ## Usage
 
